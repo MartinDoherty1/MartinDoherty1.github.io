@@ -1,0 +1,27 @@
+.AboutInterestHeading {
+    color: white;
+}
+
+#listContainer{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#AboutText{
+    color: white;
+}
+
+.InterestList{
+    list-style: none;
+    padding: 0;
+}
+
+
+
+@media screen and (max-width: 500px) {
+    #listContainer{
+        flex-flow: column;
+
+    }
+}

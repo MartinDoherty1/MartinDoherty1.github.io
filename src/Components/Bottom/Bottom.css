@@ -1,0 +1,13 @@
+#BottomContainer{
+    border-radius: 5px;
+    background-color: #161619;
+    color: white;
+}
+
+.Icons{
+    padding: 20px;
+}
+
+#github:visited {
+    color: white;
+}

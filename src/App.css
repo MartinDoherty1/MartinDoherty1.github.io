@@ -1,0 +1,14 @@
+.App {
+  background-color: #1A1B21;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  border-radius: 5px;
+  flex-flow: column;
+}
+
+.container{
+  display: flex;
+  max-width: 100%;
+  justify-content: center;
+}
